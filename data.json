@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "todo": "pergi ke kampus",
+    "complete": "❌",
+    "createdAt": "2023-01-20T01:43:22.083Z"
+  },
+  {
+    "id": 2,
+    "todo": "buat tugas",
+    "complete": "❌",
+    "createdAt": "2023-01-20T01:43:39.631Z"
+  },
+  {
+    "id": 3,
+    "todo": "ngaji",
+    "complete": "❌",
+    "createdAt": "2023-01-20T01:43:54.624Z"
+  },
+  {
+    "id": 4,
+    "todo": "shopping time",
+    "complete": "X",
+    "createdAt": "2021-01-12T14:51:45.549Z"
+  },
+  {
+    "id": 5,
+    "todo": "have a dinner",
+    "complete": "X",
+    "createdAt": "2021-01-12T15:04:06.587Z"
+  },
+  {
+    "id": 6,
+    "todo": "ngamen",
+    "complete": "❌",
+    "createdAt": "2023-01-19T05:15:02.910Z"
+  },
+  {
+    "id": 7,
+    "todo": "maen surfing",
+    "complete": "❌",
+    "createdAt": "2023-01-20T02:13:13.249Z"
+  },
+  {
+    "id": 8,
+    "todo": "coba git hub",
+    "complete": "❌",
+    "createdAt": "2023-01-23T13:27:58.787Z"
+  }
+]
