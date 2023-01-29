@@ -86,10 +86,12 @@ class Model {
     }
 
     static editTodo(inputs, cb) {
+       //ginama kalau id bukan number
         let [id, todo] = inputs
-        //ginama kalau id bukan number
-        id = +id
-
+        if(!id || !todo) {
+            return cb('Invalid Input : index <id:Number> <todo:String>')
+        }
+        
         this.list((err, dataJson) => {
             if(err) {
                 cb(err)
